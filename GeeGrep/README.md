@@ -27,7 +27,7 @@ GeeGrep 是一个从零开始实现 grep 命令行工具的教程项目。通过
 | Day 4 | [字符类基础](beginner/day4-character-classes.md) (`\d`, `\w`, `\s`) | ✅ 已完成 |
 | Day 5 | [字符组](beginner/day5-character-groups.md) (`[abc]`, `[^abc]`) | ✅ 已完成 |
 | Day 6 | [组合字符类](beginner/day6-combined-classes.md) | ✅ 已完成 |
-| Day 7 | 锚点 (`^`, `$`, `\b`) | 🚧 规划中 |
+| Day 7 | [锚点](beginner/day7-anchors.md) (`^`, `$`, `\b`) | ✅ 已完成 |
 | Day 8 | 量词（一）(`.`, `?`, `+`, `*`) | 🚧 规划中 |
 | Day 9 | 量词（二）(`{n}`, `{n,}`, `{n,m}`) | 🚧 规划中 |
 | Day 10 | 贪婪与非贪婪匹配 | 🚧 规划中 |
